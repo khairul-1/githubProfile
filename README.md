@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.ibb.co/hCmgz6P/profile-photo.jpg" />
+  <img height ="150" src="https://i.ibb.co/hCmgz6P/profile-photo.jpg" />
   
 </div>
 <h1 align="center">Hi 👋, I'm Mohammad Khairul Alamgir</h1>
